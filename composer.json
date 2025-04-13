@@ -1,6 +1,6 @@
 {
-    "name": "carvemerson/potato",
-    "description": "The Progressive Open-source Toolkit Admin Template Orchestrator",
+    "name": "carvemerson/skeleton-php",
+    "description": "A skeleton to be used on laravel packages",
     "type": "library",
     "require": {
         "php": "^8.2",
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Carvemerson\\Potato\\": "src/"
+            "Carvemerson\\SkeletonPhp\\": "src/"
         }
     },
     "autoload-dev": {

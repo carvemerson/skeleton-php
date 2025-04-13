@@ -1,9 +1,3 @@
-# Potato
+# Skeleton PHP
 
-The
-*P*rogressive
-*O*pen-source
-*T*oolkit
-*A*dmin
-*T*emplate
-*O*rchestrator
+This package provides my personal skeleton for laravel packages.
